@@ -1,0 +1,167 @@
+[
+  [
+    [
+      "103",
+      "Mick Howard"
+    ],
+    {
+      "breakdown": {
+        "time": 639,
+        "reach": 180.5,
+        "distance": 361,
+        "leading": 0,
+        "effort": 180.5,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": "18.55 km / h",
+        "ssElapsed": "2.160278 h",
+        "gsElapsed": "2.160278 h",
+        "es": "2016-04-04T20:43:07Z",
+        "ss": "2016-04-04T18:33:30Z",
+        "ssDistance": "40.069 km",
+        "gsVelocity": "18.60 km / h"
+      },
+      "total": 1000,
+      "landedDistance": "42.669 km",
+      "penalties": [],
+      "place": "1",
+      "reachDistance": "42.669 km"
+    }
+  ],
+  [
+    [
+      "105",
+      "Alan Arcos"
+    ],
+    {
+      "breakdown": {
+        "time": 552.6,
+        "reach": 180.5,
+        "distance": 361,
+        "leading": 0,
+        "effort": 180.5,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": "17.94 km / h",
+        "ssElapsed": "2.233333 h",
+        "gsElapsed": "2.233333 h",
+        "es": "2016-04-04T20:37:51Z",
+        "ss": "2016-04-04T18:23:51Z",
+        "ssDistance": "40.069 km",
+        "gsVelocity": "17.90 km / h"
+      },
+      "total": 914,
+      "landedDistance": "42.669 km",
+      "penalties": [],
+      "place": "2",
+      "reachDistance": "42.669 km"
+    }
+  ],
+  [
+    [
+      "102",
+      "Fausto Arcos"
+    ],
+    {
+      "breakdown": {
+        "time": 522.1,
+        "reach": 180.5,
+        "distance": 361,
+        "leading": 0,
+        "effort": 180.5,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": "17.61 km / h",
+        "ssElapsed": "2.275278 h",
+        "gsElapsed": "2.275278 h",
+        "es": "2016-04-04T20:45:45Z",
+        "ss": "2016-04-04T18:29:14Z",
+        "ssDistance": "40.069 km",
+        "gsVelocity": "17.60 km / h"
+      },
+      "total": 883,
+      "landedDistance": "42.669 km",
+      "penalties": [],
+      "place": "3",
+      "reachDistance": "42.669 km"
+    }
+  ],
+  [
+    [
+      "104",
+      "Mark Bourbonnais"
+    ],
+    {
+      "breakdown": {
+        "time": 425.1,
+        "reach": 180.5,
+        "distance": 361,
+        "leading": 0,
+        "effort": 180.5,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": "16.39 km / h",
+        "ssElapsed": "2.445000 h",
+        "gsElapsed": "2.445000 h",
+        "es": "2016-04-04T20:51:44Z",
+        "ss": "2016-04-04T18:25:02Z",
+        "ssDistance": "40.069 km",
+        "gsVelocity": "16.40 km / h"
+      },
+      "total": 786,
+      "landedDistance": "42.669 km",
+      "penalties": [],
+      "place": "4",
+      "reachDistance": "42.669 km"
+    }
+  ],
+  [
+    [
+      "101",
+      "Ken  Kinzie"
+    ],
+    {
+      "breakdown": {
+        "time": 382.2,
+        "reach": 180.5,
+        "distance": 361,
+        "leading": 0,
+        "effort": 180.5,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": "15.81 km / h",
+        "ssElapsed": "2.534722 h",
+        "gsElapsed": "2.534722 h",
+        "es": "2016-04-04T20:55:28Z",
+        "ss": "2016-04-04T18:23:23Z",
+        "ssDistance": "40.069 km",
+        "gsVelocity": "15.80 km / h"
+      },
+      "total": 743,
+      "landedDistance": "42.669 km",
+      "penalties": [],
+      "place": "5",
+      "reachDistance": "42.669 km"
+    }
+  ]
+]

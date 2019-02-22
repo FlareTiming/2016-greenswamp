@@ -1,0 +1,102 @@
+[
+  {
+    "goalRatio": 0.6,
+    "points": {
+      "time": 547.3,
+      "reach": 175.608,
+      "distance": 351.217,
+      "leading": 0,
+      "effort": 175.608,
+      "arrival": 0
+    },
+    "weight": {
+      "time": 0.6091,
+      "reach": 0.1954,
+      "distance": 0.3909,
+      "leading": 0,
+      "effort": 0.1954,
+      "arrival": 0
+    },
+    "taskPoints": 899
+  },
+  {
+    "goalRatio": 1,
+    "points": {
+      "time": 639,
+      "reach": 180.5,
+      "distance": 361,
+      "leading": 0,
+      "effort": 180.5,
+      "arrival": 0
+    },
+    "weight": {
+      "time": 0.639,
+      "reach": 0.1805,
+      "distance": 0.361,
+      "leading": 0,
+      "effort": 0.1805,
+      "arrival": 0
+    },
+    "taskPoints": 1000
+  },
+  {
+    "goalRatio": 0,
+    "points": {
+      "time": 28.5,
+      "reach": 128.044,
+      "distance": 256.089,
+      "leading": 0,
+      "effort": 128.044,
+      "arrival": 0
+    },
+    "weight": {
+      "time": 0.1,
+      "reach": 0.45,
+      "distance": 0.9,
+      "leading": 0,
+      "effort": 0.45,
+      "arrival": 0
+    },
+    "taskPoints": 285
+  },
+  {
+    "goalRatio": 0.2,
+    "points": {
+      "time": 369.2,
+      "reach": 315.412,
+      "distance": 630.824,
+      "leading": 0,
+      "effort": 315.412,
+      "arrival": 0
+    },
+    "weight": {
+      "time": 0.3692,
+      "reach": 0.3154,
+      "distance": 0.6308,
+      "leading": 0,
+      "effort": 0.3154,
+      "arrival": 0
+    },
+    "taskPoints": 1000
+  },
+  {
+    "goalRatio": 0.8,
+    "points": {
+      "time": 586,
+      "reach": 167.524,
+      "distance": 335.047,
+      "leading": 0,
+      "effort": 167.524,
+      "arrival": 0
+    },
+    "weight": {
+      "time": 0.6362,
+      "reach": 0.1819,
+      "distance": 0.3638,
+      "leading": 0,
+      "effort": 0.1819,
+      "arrival": 0
+    },
+    "taskPoints": 921
+  }
+]
