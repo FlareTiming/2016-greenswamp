@@ -1,0 +1,97 @@
+[
+  [
+    [
+      "103",
+      "Mick Howard"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 308.7,
+      "distanceMade": "34.622000 km",
+      "es": null,
+      "leading": 0,
+      "total": 309,
+      "distanceFrac": 0.8460072329195583,
+      "ss": "2016-04-09T19:21:50Z",
+      "arrival": 0,
+      "place": "5"
+    }
+  ],
+  [
+    [
+      "105",
+      "Alan Arcos"
+    ],
+    {
+      "ssElapsed": "1.108056 h",
+      "time": 585,
+      "distance": 334.5,
+      "distanceMade": "40.924000 km",
+      "es": "2016-04-09T19:40:10Z",
+      "leading": 0,
+      "total": 920,
+      "distanceFrac": 1,
+      "ss": "2016-04-09T18:33:41Z",
+      "arrival": 0,
+      "place": "1"
+    }
+  ],
+  [
+    [
+      "104",
+      "Mark Bourbonnais"
+    ],
+    {
+      "ssElapsed": "1.114167 h",
+      "time": 566.1,
+      "distance": 334.5,
+      "distanceMade": "40.924000 km",
+      "es": "2016-04-09T19:40:37Z",
+      "leading": 0,
+      "total": 901,
+      "distanceFrac": 1,
+      "ss": "2016-04-09T18:33:46Z",
+      "arrival": 0,
+      "place": "3"
+    }
+  ],
+  [
+    [
+      "102",
+      "Fausto Arcos"
+    ],
+    {
+      "ssElapsed": "1.118611 h",
+      "time": 557.8,
+      "distance": 334.5,
+      "distanceMade": "40.924000 km",
+      "es": "2016-04-09T19:40:46Z",
+      "leading": 0,
+      "total": 892,
+      "distanceFrac": 1,
+      "ss": "2016-04-09T18:33:39Z",
+      "arrival": 0,
+      "place": "4"
+    }
+  ],
+  [
+    [
+      "101",
+      "Ken  Kinzie"
+    ],
+    {
+      "ssElapsed": "1.111944 h",
+      "time": 571,
+      "distance": 334.5,
+      "distanceMade": "40.924000 km",
+      "es": "2016-04-09T19:40:27Z",
+      "leading": 0,
+      "total": 906,
+      "distanceFrac": 1,
+      "ss": "2016-04-09T18:33:44Z",
+      "arrival": 0,
+      "place": "2"
+    }
+  ]
+]

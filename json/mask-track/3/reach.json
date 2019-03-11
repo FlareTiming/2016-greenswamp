@@ -1,21 +1,41 @@
 [
   [
     [
-      "102",
-      "Fausto Arcos"
+      "105",
+      "Alan Arcos"
     ],
     {
-      "reach": "12.284208 km",
+      "reach": "110.550208 km",
       "frac": 1
     }
   ],
   [
     [
-      "105",
-      "Alan Arcos"
+      "103",
+      "Mick Howard"
     ],
     {
-      "reach": "12.284208 km",
+      "reach": "110.550208 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "102",
+      "Fausto Arcos"
+    ],
+    {
+      "reach": "110.550208 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "104",
+      "Mark Bourbonnais"
+    ],
+    {
+      "reach": "110.550208 km",
       "frac": 1
     }
   ],
@@ -25,28 +45,8 @@
       "Ken  Kinzie"
     ],
     {
-      "reach": "12.232208 km",
-      "frac": 0.99576692
-    }
-  ],
-  [
-    [
-      "104",
-      "Mark Bourbonnais"
-    ],
-    {
-      "reach": "12.217208 km",
-      "frac": 0.99454584
-    }
-  ],
-  [
-    [
-      "103",
-      "Mick Howard"
-    ],
-    {
-      "reach": "11.491208 km",
-      "frac": 0.93544557
+      "reach": "110.550208 km",
+      "frac": 1
     }
   ]
 ]

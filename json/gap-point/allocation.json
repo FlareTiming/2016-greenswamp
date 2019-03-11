@@ -40,24 +40,24 @@
     "taskPoints": 1000
   },
   {
-    "goalRatio": 0,
+    "goalRatio": 1,
     "points": {
-      "time": 28.5,
-      "reach": 128.044,
-      "distance": 256.089,
+      "time": 639,
+      "reach": 180.5,
+      "distance": 361,
       "leading": 0,
-      "effort": 128.044,
+      "effort": 180.5,
       "arrival": 0
     },
     "weight": {
-      "time": 0.1,
-      "reach": 0.45,
-      "distance": 0.9,
+      "time": 0.639,
+      "reach": 0.1805,
+      "distance": 0.361,
       "leading": 0,
-      "effort": 0.45,
+      "effort": 0.1805,
       "arrival": 0
     },
-    "taskPoints": 285
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.2,
