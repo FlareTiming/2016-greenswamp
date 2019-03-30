@@ -18,10 +18,10 @@
       "velocity": {
         "gs": null,
         "ssVelocity": "34.42 km / h",
-        "ssElapsed": "3.012222 h",
-        "gsElapsed": "3.012222 h",
-        "es": "2016-04-06T21:14:09Z",
-        "ss": "2016-04-06T18:13:25Z",
+        "ssElapsed": "3.011593 h",
+        "gsElapsed": "3.011593 h",
+        "es": "2016-04-06T21:14:08.710272393072Z",
+        "ss": "2016-04-06T18:13:26.97659433628Z",
         "ssDistance": "103.670 km",
         "gsVelocity": "34.40 km / h"
       },
@@ -54,7 +54,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-04-06T18:37:58Z",
+        "ss": "2016-04-06T18:37:59.446537635606Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -87,7 +87,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-04-06T18:15:02Z",
+        "ss": "2016-04-06T18:15:06.43125296743Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -120,7 +120,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-04-06T18:15:16Z",
+        "ss": "2016-04-06T18:15:21.44636287893Z",
         "ssDistance": null,
         "gsVelocity": null
       },
