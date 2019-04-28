@@ -7,10 +7,10 @@
     {
       "breakdown": {
         "time": 585.2,
-        "reach": 167.315,
-        "distance": 334.63,
+        "reach": 167.308,
+        "distance": 334.615,
         "leading": 0,
-        "effort": 167.315,
+        "effort": 167.308,
         "arrival": 0
       },
       "stoppedAlt": null,
@@ -18,18 +18,18 @@
       "velocity": {
         "gs": null,
         "ssVelocity": "32.79 km / h",
-        "ssElapsed": "1.109131 h",
-        "gsElapsed": "1.109131 h",
-        "es": "2016-04-09T19:40:09.94247251379Z",
-        "ss": "2016-04-09T18:33:37.07131599214Z",
-        "ssDistance": "36.370 km",
+        "ssElapsed": "1.109023 h",
+        "gsElapsed": "1.109023 h",
+        "es": "2016-04-09T19:40:12.202512956433Z",
+        "ss": "2016-04-09T18:33:39.71951330938Z",
+        "ssDistance": "36.369 km",
         "gsVelocity": "32.80 km / h"
       },
       "total": 920,
-      "landedDistance": "40.970 km",
+      "landedDistance": "40.969 km",
       "penalties": [],
       "place": "1",
-      "reachDistance": "40.970 km"
+      "reachDistance": "40.969 km"
     }
   ],
   [
@@ -39,63 +39,30 @@
     ],
     {
       "breakdown": {
-        "time": 572,
-        "reach": 167.315,
-        "distance": 334.63,
+        "time": 571.3,
+        "reach": 167.308,
+        "distance": 334.615,
         "leading": 0,
-        "effort": 167.315,
+        "effort": 167.308,
         "arrival": 0
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.69 km / h",
-        "ssElapsed": "1.112699 h",
-        "gsElapsed": "1.112699 h",
-        "es": "2016-04-09T19:40:26.30989879021Z",
-        "ss": "2016-04-09T18:33:40.59307578633Z",
-        "ssDistance": "36.370 km",
+        "ssVelocity": "32.68 km / h",
+        "ssElapsed": "1.112889 h",
+        "gsElapsed": "1.112889 h",
+        "es": "2016-04-09T19:40:28.790222662527Z",
+        "ss": "2016-04-09T18:33:42.391082857264Z",
+        "ssDistance": "36.369 km",
         "gsVelocity": "32.70 km / h"
       },
-      "total": 907,
-      "landedDistance": "40.970 km",
+      "total": 906,
+      "landedDistance": "40.969 km",
       "penalties": [],
       "place": "2",
-      "reachDistance": "40.970 km"
-    }
-  ],
-  [
-    [
-      "102",
-      "Fausto Arcos"
-    ],
-    {
-      "breakdown": {
-        "time": 559.1,
-        "reach": 167.315,
-        "distance": 334.63,
-        "leading": 0,
-        "effort": 167.315,
-        "arrival": 0
-      },
-      "stoppedAlt": null,
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": "32.50 km / h",
-        "ssElapsed": "1.119066 h",
-        "gsElapsed": "1.119066 h",
-        "es": "2016-04-09T19:40:45.174815998432Z",
-        "ss": "2016-04-09T18:33:36.53653818327Z",
-        "ssDistance": "36.370 km",
-        "gsVelocity": "32.50 km / h"
-      },
-      "total": 894,
-      "landedDistance": "40.970 km",
-      "penalties": [],
-      "place": "3",
-      "reachDistance": "40.970 km"
+      "reachDistance": "40.969 km"
     }
   ],
   [
@@ -105,30 +72,63 @@
     ],
     {
       "breakdown": {
-        "time": 557.7,
-        "reach": 167.315,
-        "distance": 334.63,
+        "time": 566.4,
+        "reach": 167.308,
+        "distance": 334.615,
         "leading": 0,
-        "effort": 167.315,
+        "effort": 167.308,
         "arrival": 0
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.48 km / h",
-        "ssElapsed": "1.119862 h",
-        "gsElapsed": "1.119862 h",
-        "es": "2016-04-09T19:40:36.04018848142Z",
-        "ss": "2016-04-09T18:33:24.53570465335Z",
-        "ssDistance": "36.370 km",
+        "ssVelocity": "32.62 km / h",
+        "ssElapsed": "1.115110 h",
+        "gsElapsed": "1.115110 h",
+        "es": "2016-04-09T19:40:38.889880931787Z",
+        "ss": "2016-04-09T18:33:44.49411383575Z",
+        "ssDistance": "36.369 km",
+        "gsVelocity": "32.60 km / h"
+      },
+      "total": 901,
+      "landedDistance": "40.969 km",
+      "penalties": [],
+      "place": "3",
+      "reachDistance": "40.969 km"
+    }
+  ],
+  [
+    [
+      "102",
+      "Fausto Arcos"
+    ],
+    {
+      "breakdown": {
+        "time": 558.3,
+        "reach": 167.308,
+        "distance": 334.615,
+        "leading": 0,
+        "effort": 167.308,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": "32.49 km / h",
+        "ssElapsed": "1.119433 h",
+        "gsElapsed": "1.119433 h",
+        "es": "2016-04-09T19:40:48.041142385055Z",
+        "ss": "2016-04-09T18:33:38.08307419728Z",
+        "ssDistance": "36.369 km",
         "gsVelocity": "32.50 km / h"
       },
-      "total": 892,
-      "landedDistance": "40.970 km",
+      "total": 893,
+      "landedDistance": "40.969 km",
       "penalties": [],
       "place": "4",
-      "reachDistance": "40.970 km"
+      "reachDistance": "40.969 km"
     }
   ],
   [
@@ -139,10 +139,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 141.812,
-        "distance": 309.127,
+        "reach": 141.56,
+        "distance": 308.867,
         "leading": 0,
-        "effort": 167.315,
+        "effort": 167.308,
         "arrival": 0
       },
       "stoppedAlt": "2.000 m",
@@ -153,15 +153,15 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-04-09T19:21:47.770617074006Z",
+        "ss": "2016-04-09T19:21:49.250624859546Z",
         "ssDistance": null,
         "gsVelocity": null
       },
       "total": 309,
-      "landedDistance": "33.715 km",
+      "landedDistance": "33.654 km",
       "penalties": [],
       "place": "5",
-      "reachDistance": "34.725 km"
+      "reachDistance": "34.664 km"
     }
   ]
 ]

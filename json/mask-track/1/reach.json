@@ -5,7 +5,7 @@
       "Mick Howard"
     ],
     {
-      "reach": "34.259485 km",
+      "reach": "34.257407 km",
       "frac": 1
     }
   ],
@@ -15,7 +15,7 @@
       "Fausto Arcos"
     ],
     {
-      "reach": "34.259485 km",
+      "reach": "34.257407 km",
       "frac": 1
     }
   ],
@@ -25,7 +25,7 @@
       "Mark Bourbonnais"
     ],
     {
-      "reach": "34.259485 km",
+      "reach": "34.257407 km",
       "frac": 1
     }
   ],
@@ -35,8 +35,8 @@
       "Alan Arcos"
     ],
     {
-      "reach": "26.174485 km",
-      "frac": 0.76400696
+      "reach": "26.127407 km",
+      "frac": 0.76267906
     }
   ],
   [
@@ -45,8 +45,8 @@
       "Ken  Kinzie"
     ],
     {
-      "reach": "5.759485 km",
-      "frac": 0.16811359
+      "reach": "5.708407 km",
+      "frac": 0.16663278
     }
   ]
 ]

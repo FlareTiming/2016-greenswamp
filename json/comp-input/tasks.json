@@ -16,7 +16,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -24,7 +24,7 @@
           "lat": 28.3764,
           "zoneName": "T47433",
           "lng": -81.8233,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -32,7 +32,7 @@
           "lat": 28.19247,
           "zoneName": "ROK98",
           "lng": -82.00118,
-          "give": "9045.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -128,7 +128,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "2985.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -136,7 +136,7 @@
           "lat": 28.48417,
           "zoneName": "SAWMIL",
           "lng": -81.77607,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -144,7 +144,7 @@
           "lat": 28.47802,
           "zoneName": "BAYLK",
           "lng": -81.90695,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -152,7 +152,7 @@
           "lat": 28.58093,
           "zoneName": "T50469",
           "lng": -81.96075,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -160,7 +160,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -261,7 +261,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -269,7 +269,7 @@
           "lat": 28.3475,
           "zoneName": "T27192",
           "lng": -81.67583,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -277,7 +277,7 @@
           "lat": 27.5919,
           "zoneName": "AVONPK",
           "lng": -81.52687,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -360,7 +360,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -368,7 +368,7 @@
           "lat": 29.06043,
           "zoneName": "DUNELL",
           "lng": -82.37565,
-          "give": "5025.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -376,7 +376,7 @@
           "lat": 29.35018,
           "zoneName": "WILLIS",
           "lng": -82.46477,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -459,7 +459,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -467,7 +467,7 @@
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -475,7 +475,7 @@
           "lat": 28.06297,
           "zoneName": "GILBRT",
           "lng": -81.75307,
-          "give": "12060.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],

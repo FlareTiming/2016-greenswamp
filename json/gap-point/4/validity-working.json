@@ -1,10 +1,10 @@
 {
   "time": {
-    "ssBestTime": "3.011593 h",
+    "ssBestTime": "3.011356 h",
     "nominalDistance": "30.0 km",
     "nominalTime": "1.500000 h",
     "bestDistance": "108.3 km",
-    "gsBestTime": "3.011593 h"
+    "gsBestTime": "3.011356 h"
   },
   "launch": {
     "flying": 5,
@@ -12,7 +12,7 @@
     "nominalLaunch": 1
   },
   "distance": {
-    "area": 22.8269785,
+    "area": 22.8269586,
     "flying": 5,
     "nominalGoal": 0.2,
     "nominalDistance": "30.0 km",
