@@ -5,31 +5,34 @@
       "Alan Arcos"
     ],
     {
+      "reach": {
+        "extra": "40.966 km",
+        "flown": "40.966 km"
+      },
       "breakdown": {
-        "time": 585.2,
-        "reach": 167.308,
-        "distance": 334.615,
+        "time": 584.9,
+        "reach": 167.227,
+        "distance": 334.455,
         "leading": 0,
-        "effort": 167.308,
+        "effort": 167.227,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "40.966 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.79 km / h",
-        "ssElapsed": "1.109023 h",
-        "gsElapsed": "1.109023 h",
-        "es": "2016-04-09T19:40:12.202512956433Z",
-        "ss": "2016-04-09T18:33:39.71951330938Z",
-        "ssDistance": "36.369 km",
+        "ssVelocity": "32.83 km / h",
+        "ssElapsed": "1.107839 h",
+        "gsElapsed": "1.107839 h",
+        "es": "2016-04-09T19:40:09.94247543389Z",
+        "ss": "2016-04-09T18:33:41.72285373541Z",
+        "ssDistance": "36.366 km",
         "gsVelocity": "32.80 km / h"
       },
-      "total": 920,
-      "landedDistance": "40.969 km",
+      "total": 919,
       "penalties": [],
-      "place": "1",
-      "reachDistance": "40.969 km"
+      "place": "1"
     }
   ],
   [
@@ -38,31 +41,34 @@
       "Ken  Kinzie"
     ],
     {
+      "reach": {
+        "extra": "40.966 km",
+        "flown": "40.966 km"
+      },
       "breakdown": {
-        "time": 571.3,
-        "reach": 167.308,
-        "distance": 334.615,
+        "time": 571.1,
+        "reach": 167.227,
+        "distance": 334.455,
         "leading": 0,
-        "effort": 167.308,
+        "effort": 167.227,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "40.966 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.68 km / h",
-        "ssElapsed": "1.112889 h",
-        "gsElapsed": "1.112889 h",
-        "es": "2016-04-09T19:40:28.790222662527Z",
-        "ss": "2016-04-09T18:33:42.391082857264Z",
-        "ssDistance": "36.369 km",
+        "ssVelocity": "32.71 km / h",
+        "ssElapsed": "1.111683 h",
+        "gsElapsed": "1.111683 h",
+        "es": "2016-04-09T19:40:26.309893860055Z",
+        "ss": "2016-04-09T18:33:44.252529523065Z",
+        "ssDistance": "36.366 km",
         "gsVelocity": "32.70 km / h"
       },
       "total": 906,
-      "landedDistance": "40.969 km",
       "penalties": [],
-      "place": "2",
-      "reachDistance": "40.969 km"
+      "place": "2"
     }
   ],
   [
@@ -71,31 +77,34 @@
       "Mark Bourbonnais"
     ],
     {
+      "reach": {
+        "extra": "40.966 km",
+        "flown": "40.966 km"
+      },
       "breakdown": {
-        "time": 566.4,
-        "reach": 167.308,
-        "distance": 334.615,
+        "time": 566.6,
+        "reach": 167.227,
+        "distance": 334.455,
         "leading": 0,
-        "effort": 167.308,
+        "effort": 167.227,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "40.966 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.62 km / h",
-        "ssElapsed": "1.115110 h",
-        "gsElapsed": "1.115110 h",
-        "es": "2016-04-09T19:40:38.889880931787Z",
-        "ss": "2016-04-09T18:33:44.49411383575Z",
-        "ssDistance": "36.369 km",
+        "ssVelocity": "32.65 km / h",
+        "ssElapsed": "1.113665 h",
+        "gsElapsed": "1.113665 h",
+        "es": "2016-04-09T19:40:36.040094162216Z",
+        "ss": "2016-04-09T18:33:46.84728140999Z",
+        "ssDistance": "36.366 km",
         "gsVelocity": "32.60 km / h"
       },
       "total": 901,
-      "landedDistance": "40.969 km",
       "penalties": [],
-      "place": "3",
-      "reachDistance": "40.969 km"
+      "place": "3"
     }
   ],
   [
@@ -104,31 +113,34 @@
       "Fausto Arcos"
     ],
     {
+      "reach": {
+        "extra": "40.966 km",
+        "flown": "40.966 km"
+      },
       "breakdown": {
-        "time": 558.3,
-        "reach": 167.308,
-        "distance": 334.615,
+        "time": 558.1,
+        "reach": 167.227,
+        "distance": 334.455,
         "leading": 0,
-        "effort": 167.308,
+        "effort": 167.227,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "40.966 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.49 km / h",
-        "ssElapsed": "1.119433 h",
-        "gsElapsed": "1.119433 h",
-        "es": "2016-04-09T19:40:48.041142385055Z",
-        "ss": "2016-04-09T18:33:38.08307419728Z",
-        "ssDistance": "36.369 km",
+        "ssVelocity": "32.52 km / h",
+        "ssElapsed": "1.118207 h",
+        "gsElapsed": "1.118207 h",
+        "es": "2016-04-09T19:40:45.17468115244Z",
+        "ss": "2016-04-09T18:33:39.62863719903Z",
+        "ssDistance": "36.366 km",
         "gsVelocity": "32.50 km / h"
       },
       "total": 893,
-      "landedDistance": "40.969 km",
       "penalties": [],
-      "place": "4",
-      "reachDistance": "40.969 km"
+      "place": "4"
     }
   ],
   [
@@ -137,15 +149,20 @@
       "Mick Howard"
     ],
     {
+      "reach": {
+        "extra": "34.656 km",
+        "flown": "34.656 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 141.56,
-        "distance": 308.867,
+        "reach": 141.469,
+        "distance": 308.697,
         "leading": 0,
-        "effort": 167.308,
+        "effort": 167.227,
         "arrival": 0
       },
       "stoppedAlt": "2.000 m",
+      "landedMade": "33.710 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -153,15 +170,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-04-09T19:21:49.250624859546Z",
+        "ss": "2016-04-09T19:21:50.746981431176Z",
         "ssDistance": null,
         "gsVelocity": null
       },
       "total": 309,
-      "landedDistance": "33.654 km",
       "penalties": [],
-      "place": "5",
-      "reachDistance": "34.664 km"
+      "place": "5"
     }
   ]
 ]

@@ -1,0 +1,95 @@
+{
+  "chunking": {
+    "endChunk": [
+      1092,
+      "109.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 996
+  },
+  "bestDistance": null,
+  "difficulty": [
+    {
+      "endChunk": "8.8 km",
+      "down": 1,
+      "chunk": 87,
+      "startChunk": "8.7 km",
+      "frac": 0.17670683,
+      "downers": [
+        [
+          "101",
+          "Ken  Kinzie"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00200803,
+      "endAhead": "89.9 km",
+      "downs": [
+        "8.742 km"
+      ]
+    },
+    {
+      "endChunk": "22.5 km",
+      "down": 1,
+      "chunk": 224,
+      "startChunk": "22.4 km",
+      "frac": 0.38303213,
+      "downers": [
+        [
+          "104",
+          "Mark Bourbonnais"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00150602,
+      "endAhead": "103.6 km",
+      "downs": [
+        "22.497 km"
+      ]
+    },
+    {
+      "endChunk": "22.8 km",
+      "down": 1,
+      "chunk": 227,
+      "startChunk": "22.7 km",
+      "frac": 0.38604418,
+      "downers": [
+        [
+          "105",
+          "Alan Arcos"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00100402,
+      "endAhead": "103.9 km",
+      "downs": [
+        "22.772 km"
+      ]
+    },
+    {
+      "endChunk": "45.5 km",
+      "down": 1,
+      "chunk": 454,
+      "startChunk": "45.4 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "103",
+          "Mick Howard"
+        ]
+      ],
+      "downward": 0,
+      "rel": 0.00050201,
+      "endAhead": "126.6 km",
+      "downs": [
+        "45.467 km"
+      ]
+    }
+  ],
+  "lookahead": 812,
+  "minDistance": "0.000 km",
+  "landout": 4
+}

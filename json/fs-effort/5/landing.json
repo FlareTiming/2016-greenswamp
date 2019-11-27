@@ -1,0 +1,38 @@
+{
+  "chunking": {
+    "endChunk": [
+      412,
+      "41.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 347
+  },
+  "bestDistance": null,
+  "difficulty": [
+    {
+      "endChunk": "34.7 km",
+      "down": 1,
+      "chunk": 346,
+      "startChunk": "34.6 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "103",
+          "Mick Howard"
+        ]
+      ],
+      "downward": 0,
+      "rel": 0.00144092,
+      "endAhead": "157.4 km",
+      "downs": [
+        "34.622 km"
+      ]
+    }
+  ],
+  "lookahead": 1228,
+  "minDistance": "0.000 km",
+  "landout": 1
+}

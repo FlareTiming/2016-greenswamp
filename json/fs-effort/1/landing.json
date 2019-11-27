@@ -1,0 +1,57 @@
+{
+  "chunking": {
+    "endChunk": [
+      352,
+      "35.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 320
+  },
+  "bestDistance": null,
+  "difficulty": [
+    {
+      "endChunk": "5.8 km",
+      "down": 1,
+      "chunk": 57,
+      "startChunk": "5.7 km",
+      "frac": 0.18125,
+      "downers": [
+        [
+          "101",
+          "Ken  Kinzie"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.003125,
+      "endAhead": "57.1 km",
+      "downs": [
+        "5.707 km"
+      ]
+    },
+    {
+      "endChunk": "26.2 km",
+      "down": 1,
+      "chunk": 261,
+      "startChunk": "26.1 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "105",
+          "Alan Arcos"
+        ]
+      ],
+      "downward": 0,
+      "rel": 0.0015625,
+      "endAhead": "77.5 km",
+      "downs": [
+        "26.113 km"
+      ]
+    }
+  ],
+  "lookahead": 514,
+  "minDistance": "0.000 km",
+  "landout": 2
+}

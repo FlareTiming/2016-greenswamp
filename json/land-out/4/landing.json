@@ -1,0 +1,62 @@
+{
+  "chunking": {
+    "endChunk": [
+      1091,
+      "109.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 889
+  },
+  "bestDistance": "108.268931 km",
+  "difficulty": [
+    {
+      "endChunk": "21.8 km",
+      "down": 2,
+      "chunk": 217,
+      "startChunk": "21.7 km",
+      "frac": 0.36782902,
+      "downers": [
+        [
+          "105",
+          "Alan Arcos"
+        ],
+        [
+          "104",
+          "Mark Bourbonnais"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00168729,
+      "endAhead": "130.1 km",
+      "downs": [
+        "21.733 km",
+        "21.749 km"
+      ]
+    },
+    {
+      "endChunk": "45.3 km",
+      "down": 1,
+      "chunk": 452,
+      "startChunk": "45.2 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "103",
+          "Mick Howard"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00056243,
+      "endAhead": "153.6 km",
+      "downs": [
+        "45.219 km"
+      ]
+    }
+  ],
+  "lookahead": 1083,
+  "minDistance": "5.000 km",
+  "landout": 3
+}

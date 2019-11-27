@@ -1,32 +1,37 @@
 [
   {
-    "time": 0.898,
+    "time": 0.897,
     "launch": 1,
     "distance": 1,
-    "task": 0.898
+    "task": 0.897,
+    "stop": null
   },
   {
     "time": 1,
     "launch": 1,
     "distance": 1,
-    "task": 1
+    "task": 1,
+    "stop": null
   },
   {
     "time": 1,
     "launch": 1,
     "distance": 1,
-    "task": 1
+    "task": 1,
+    "stop": null
   },
   {
     "time": 1,
     "launch": 1,
     "distance": 1,
-    "task": 1
+    "task": 1,
+    "stop": null
   },
   {
-    "time": 0.92,
+    "time": 0.919,
     "launch": 1,
     "distance": 1,
-    "task": 0.92
+    "task": 0.919,
+    "stop": null
   }
 ]
