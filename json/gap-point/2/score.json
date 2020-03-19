@@ -5,6 +5,8 @@
       "Mick Howard"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "42.669 km",
         "flown": "42.669 km"
@@ -18,8 +20,12 @@
         "arrival": 0
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "42.669 km",
+      "subtotal": 1000,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": null,
         "ssVelocity": "18.56 km / h",
@@ -41,6 +47,8 @@
       "Alan Arcos"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "42.669 km",
         "flown": "42.669 km"
@@ -54,8 +62,12 @@
         "arrival": 0
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "42.669 km",
+      "subtotal": 915.334,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": null,
         "ssVelocity": "17.97 km / h",
@@ -66,7 +78,7 @@
         "ssDistance": "40.069 km",
         "gsVelocity": "18.00 km / h"
       },
-      "total": 915,
+      "total": 915.334,
       "penalties": [],
       "place": "2"
     }
@@ -77,6 +89,8 @@
       "Fausto Arcos"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "42.669 km",
         "flown": "42.669 km"
@@ -90,8 +104,12 @@
         "arrival": 0
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "42.669 km",
+      "subtotal": 884.386,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": null,
         "ssVelocity": "17.63 km / h",
@@ -102,7 +120,7 @@
         "ssDistance": "40.069 km",
         "gsVelocity": "17.60 km / h"
       },
-      "total": 884,
+      "total": 884.386,
       "penalties": [],
       "place": "3"
     }
@@ -113,6 +131,8 @@
       "Mark Bourbonnais"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "42.669 km",
         "flown": "42.669 km"
@@ -126,8 +146,12 @@
         "arrival": 0
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "42.669 km",
+      "subtotal": 786.408,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": null,
         "ssVelocity": "16.40 km / h",
@@ -138,7 +162,7 @@
         "ssDistance": "40.069 km",
         "gsVelocity": "16.40 km / h"
       },
-      "total": 786,
+      "total": 786.408,
       "penalties": [],
       "place": "4"
     }
@@ -149,6 +173,8 @@
       "Ken  Kinzie"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "42.669 km",
         "flown": "42.669 km"
@@ -162,8 +188,12 @@
         "arrival": 0
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "42.669 km",
+      "subtotal": 743.263,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": null,
         "ssVelocity": "15.82 km / h",
@@ -174,7 +204,7 @@
         "ssDistance": "40.069 km",
         "gsVelocity": "15.80 km / h"
       },
-      "total": 743,
+      "total": 743.263,
       "penalties": [],
       "place": "5"
     }

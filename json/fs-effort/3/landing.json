@@ -10,9 +10,9 @@
     ],
     "sumOf": 0
   },
-  "bestDistance": null,
+  "bestDistance": "110.547000 km",
   "difficulty": [],
   "lookahead": 30,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 0
 }
