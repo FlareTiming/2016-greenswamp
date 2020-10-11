@@ -103,11 +103,15 @@
           "105",
           "Alan Arcos"
         ],
-        [
-          {
-            "penalty-fraction": -0.2
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 1.2
+            }
+          ]
+        },
         "Handicap"
       ]
     ],
